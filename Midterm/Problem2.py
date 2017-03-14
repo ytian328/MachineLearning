@@ -1,4 +1,4 @@
-#problem2-10
+#problem2-10 comparison between ML and Bayesian LR
 
 import numpy as np
 from scipy.misc import derivative
